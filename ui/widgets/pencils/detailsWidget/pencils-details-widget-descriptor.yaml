@@ -1,0 +1,6 @@
+code: pencils-details-widget
+titles:
+  en: Pencils Details Widget
+  it: Pencils Details Widget
+group: free
+customUiPath: pencils-details-widget.ftl

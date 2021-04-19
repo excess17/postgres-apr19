@@ -1,0 +1,13 @@
+code: postgresapr19-bundle
+description: This is the postgresapr19 bundle
+
+components:
+  plugins:
+    - plugins/postgresapr19-plugin.yaml
+
+  widgets:
+    - ui/widgets/pencils/tableWidget/pencils-table-widget-descriptor.yaml
+    - ui/widgets/pencils/detailsWidget/pencils-details-widget-descriptor.yaml
+    - ui/widgets/pencils/formWidget/pencils-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
